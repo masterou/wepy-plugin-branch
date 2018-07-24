@@ -13,7 +13,5 @@
     "url": "https://github.com/pglin66/wepy-plugin-branch.git"
   },
   "license": "MIT",
-  "dependencies": {
-
-  }
+  "dependencies": {}
 }
