@@ -1,0 +1,19 @@
+{
+  "name": "wepy-plugin-branch",
+  "version": "1.0.0",
+  "description": "wepy框架生成多个小程序",
+  "main": "lib/index.js",
+  "keywords": [
+    "rpx",
+    "branch"
+  ],
+  "author": "pglin66@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pglin66/wepy-plugin-branch.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
